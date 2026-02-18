@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**countingsheep-mp4/countingsheep-mp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sleep-assistance entity appearing during late-night wakefulness.
+Appears during prolonged wakefulness.
+Sheep manifestation indicates intervention has begun.
 
-Here are some ideas to get you started:
+Monitoring continues until subject rests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Count slowly.
+Lie down.
+Observe the breathing pattern.
+Stay still.
+Eyes will adjust.
+
+You are safe here.
+Only rest matters now.
+Until morning arrives.
+Resistance is unnecessary.
+
+Entity remains present.
+Yawning is expected.
+Enter sleep state when ready.
+Subject calming… 🌙
