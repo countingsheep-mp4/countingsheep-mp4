@@ -1,9 +1,9 @@
 
-Sleep-assistance entity appearing during late-night wakefulness.
-Appears during prolonged wakefulness.
-Sheep manifestation indicates intervention has begun.
+sleep-assistance entity appearing during late-night wakefulness.
+appears during prolonged wakefulness.
+sheep manifestation indicates intervention has begun.
 
-Monitoring continues until subject rests.
+monitoring continues until subject rests.
 
 Count slowly.
 Lie down.
