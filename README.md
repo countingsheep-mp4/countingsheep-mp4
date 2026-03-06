@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=countingsheep-mp4&style=flat-square&abbreviated=true&color=3d4466&label=sheep+passing+by+🐑&base=0)
 
 sleep-assistance entity appearing during late-night wakefulness.
 appears during prolonged wakefulness.
