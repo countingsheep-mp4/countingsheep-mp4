@@ -1,4 +1,4 @@
-[🐑🐑🐑](https://revospring.net/@countingsheep)
+🐑🐑🐑
 <img width="2472" height="1022" alt="1000007523" src="https://github.com/user-attachments/assets/2f0ea673-680c-4b9e-aac4-95764a604cb2" />
 
 ![](https://komarev.com/ghpvc/?username=countingsheep-mp4&style=flat-square&abbreviated=true&color=3d4466&label=sheep+passing+by+🐑&base=0)
